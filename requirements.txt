@@ -4,4 +4,6 @@ dvc-s3
 dagshub
 scikit-learn
 ipykernel
+tensorflow
+
 
