@@ -1,0 +1,14 @@
+preprocess:
+  input: data/raw/mydata.csv
+  output: data/processed/processed.csv
+
+
+train:
+  data: mydata/processed/mydata.csv
+  model: models/LSTM_model.pkl
+
+model: 
+  model: models/LSTM_model.pkl
+  
+
+  
