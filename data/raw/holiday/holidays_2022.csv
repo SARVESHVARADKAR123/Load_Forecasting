@@ -1,29 +1,29 @@
-Date,Day,Holiday,Type,Region,Is National Holiday,Holiday Duration,Impact Level,Holiday Proximity,Past Proximity,Future Proximity
-2022-01-01,Saturday,New Year's Day,Public,Nationwide,1,1,High,0,0,-12
-2022-01-13,Thursday,Lohri,Public,Nationwide,1,1,High,12,12,-1
-2022-01-14,Friday,Makara Sankranti/Magha Bihu/Pongal,Public,Nationwide,1,1,High,1,1,-12
-2022-01-26,Wednesday,Republic Day,Public,Nationwide,1,1,High,12,12,-10
-2022-02-05,Saturday,Basant Panchami,Public,Nationwide,1,1,High,10,10,-24
-2022-03-01,Tuesday,Maha Sivarathri,Public,Nationwide,1,1,High,24,24,-16
-2022-03-17,Thursday,Holika Dahan,Public,Nationwide,1,1,High,16,16,-1
-2022-03-18,Friday,Holi,Public,Nationwide,1,1,High,1,1,-15
-2022-04-02,Saturday,Chaitra Sukladi/Gudi Padava,Public,Nationwide,1,1,High,15,15,-8
-2022-04-10,Sunday,Ram Navami,Public,Nationwide,1,1,High,8,8,-4
-2022-04-14,Thursday,Dr.B.R.Ambedkar's Birthday/Mahaveer Jayanthi/Vishu/Vaisakhi,Public,Nationwide,1,1,High,4,4,-1
-2022-04-15,Friday,Good Friday,Public,Nationwide,1,1,High,1,1,-18
-2022-05-03,Tuesday,Eid-ul-Fitr,Public,Nationwide,1,1,High,18,18,-13
-2022-05-16,Monday,Budha Purnima,Public,Nationwide,1,1,High,13,13,-55
-2022-07-10,Sunday,Bakrid (Eid-ul-Zuha),Public,Nationwide,1,1,High,55,55,-30
-2022-08-09,Tuesday,Muharram,Public,Nationwide,1,1,High,30,30,-2
-2022-08-11,Thursday,Raksha Bandhan,Public,Nationwide,1,1,High,2,2,-4
-2022-08-15,Monday,Independence Day,Public,Nationwide,1,1,High,4,4,-4
-2022-08-19,Friday,Janmashtami,Public,Nationwide,1,1,High,4,4,-12
-2022-08-31,Wednesday,Vinayaka Chaturthi,Public,Nationwide,1,1,High,12,12,-32
-2022-10-02,Sunday,Mahatma Gandhi's Birthday,Public,Nationwide,1,1,High,32,32,-3
-2022-10-05,Wednesday,Dussehra,Public,Nationwide,1,1,High,3,3,-4
-2022-10-09,Sunday,Milad-un-Nabi,Public,Nationwide,1,1,High,4,4,-4
-2022-10-13,Thursday,Karwa Chouth,Public,Nationwide,1,1,High,4,4,-11
-2022-10-24,Monday,Diwali,Public,Nationwide,1,1,High,11,11,-2
-2022-10-26,Wednesday,Bhai Duj,Public,Nationwide,1,1,High,2,2,-13
-2022-11-08,Tuesday,Gurunanak's Birthday,Public,Nationwide,1,1,High,13,13,-47
-2022-12-25,Sunday,Christmas,Public,Nationwide,1,1,High,47,47,0
+,Date,Day,Holiday,Holiday Duration,Impact Level,Holiday Proximity,Past Proximity,Future Proximity
+0,2022-01-01,Saturday,New Year's Day,1,High,0,0,-12
+1,2022-01-13,Thursday,Lohri,1,High,12,12,-1
+2,2022-01-14,Friday,Makara Sankranti/Magha Bihu/Pongal,1,High,1,1,-12
+3,2022-01-26,Wednesday,Republic Day,1,High,12,12,-10
+4,2022-02-05,Saturday,Basant Panchami,1,High,10,10,-24
+5,2022-03-01,Tuesday,Maha Sivarathri,1,High,24,24,-16
+6,2022-03-17,Thursday,Holika Dahan,1,High,16,16,-1
+7,2022-03-18,Friday,Holi,1,High,1,1,-15
+8,2022-04-02,Saturday,Chaitra Sukladi/Gudi Padava,1,High,15,15,-8
+9,2022-04-10,Sunday,Ram Navami,1,High,8,8,-4
+10,2022-04-14,Thursday,Dr.B.R.Ambedkar's Birthday/Mahaveer Jayanthi/Vishu/Vaisakhi,1,High,4,4,-1
+11,2022-04-15,Friday,Good Friday,1,High,1,1,-18
+12,2022-05-03,Tuesday,Eid-ul-Fitr,1,High,18,18,-13
+13,2022-05-16,Monday,Budha Purnima,1,High,13,13,-55
+14,2022-07-10,Sunday,Bakrid (Eid-ul-Zuha),1,High,55,55,-30
+15,2022-08-09,Tuesday,Muharram,1,High,30,30,-2
+16,2022-08-11,Thursday,Raksha Bandhan,1,High,2,2,-4
+17,2022-08-15,Monday,Independence Day,1,High,4,4,-4
+18,2022-08-19,Friday,Janmashtami,1,High,4,4,-12
+19,2022-08-31,Wednesday,Vinayaka Chaturthi,1,High,12,12,-32
+20,2022-10-02,Sunday,Mahatma Gandhi's Birthday,1,High,32,32,-3
+21,2022-10-05,Wednesday,Dussehra,1,High,3,3,-4
+22,2022-10-09,Sunday,Milad-un-Nabi,1,High,4,4,-4
+23,2022-10-13,Thursday,Karwa Chouth,1,High,4,4,-11
+24,2022-10-24,Monday,Diwali,1,High,11,11,-2
+25,2022-10-26,Wednesday,Bhai Duj,1,High,2,2,-13
+26,2022-11-08,Tuesday,Gurunanak's Birthday,1,High,13,13,-47
+27,2022-12-25,Sunday,Christmas,1,High,47,47,0
